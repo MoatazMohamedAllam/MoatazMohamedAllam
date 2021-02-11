@@ -1,19 +1,14 @@
 ### Hi there I'm Moataz 👋
 
-<!--
-**MoatazMohamedAllam/MoatazMohamedAllam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Software Engineer</h4>
 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer who loves working with Asp.net core, Angular, Typescript. 💻
+<ul>
+    <li>
+         Frontend: Angular, HTML5, CSS3, Typescript, ES6+
+    </li>
+    <li>
+         Backend: C#, .NET Core, Typescript, Python, Django, Sql Server
+    </li>
+  </ul>
